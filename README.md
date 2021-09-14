@@ -1,5 +1,5 @@
 # solar-system-simulation
-Python Solar System Simulation using RK4
+Solar System Simulation using Python and RK4 Integration Algorithm
 
 This project uses the RK4 algorithm to simulate the orbits of Mercury, Venus, Earth, and Mars around the Sun. The project is written in python making use of matplotlib to animate the orbits and numpy to perform the integrations.
 
