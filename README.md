@@ -1,6 +1,7 @@
 # solar-system-simulation
 Solar System Simulation using Python and RK4 Integration Algorithm
 
+
 This project uses the RK4 algorithm to simulate the orbits of Mercury, Venus, Earth, and Mars around the Sun. The project is written in python making use of matplotlib to animate the orbits and numpy to perform the integrations.
 
 The relative velocities, orbital time periods, sizes, and distances of the planets are all accurate. The size of the Sun is just chosen to look good as the actual Sun size is so large that it would eclipse many of the planets and ruin the look of the simulation. I initially tried to simulate all 8 planets in the solar system but found that the size of the orbits for the gas giants were so large that the inner planets couldn't be seen anymore. There was also the problem that making planets like Jupiter to scale meant that smaller planets like mercury became invisible, especially if I wanted the planets to still be larger than the Sun.
