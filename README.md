@@ -7,6 +7,4 @@ The relative velocities, orbital time periods, sizes, and distances of the plane
 
 The program is very simple to use, simply enter a number of years to run the simulation (between 0 and 50) and the simulation will run for that time period. I decided to cut it off at 50 as the program does all the integration before running so longer simulations end up taking too long to run. In the future I might make it so that the user can select the number of planets they want to simulate rather than always doing 4, but that would require making some concessions to the accuracy of the simulation in order for it to actually be interesting to watch.
 
-<video width="320" height="240" controls>
-  <source src="solar system simulation.mp4" type="video/mp4">
-</video>
+![solar system simulation](https://user-images.githubusercontent.com/16436026/133942210-a2e6a449-2128-49b8-884d-d3114b197899.gif)
